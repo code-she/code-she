@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @mxxshxx
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning python.
+<h1 align="center">Hi 👋, I'm mxxsxx</h1>
+<h3 align="center">A beginner in my coding journey.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mxxshxx&label=Profile%20views&color=0e75b6&style=flat" alt="mxxshxx" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mxxshxx" alt="mxxshxx" /></a> </p>
+
+- 🌱 I’m currently learning **python**
+
+- ⚡ Fun fact **I fall randomly while thinking about stuff.**
 
 
-<!---
-mxxshxx/mxxshxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mxxshxx&show_icons=true&locale=en" alt="mxxshxx" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mxxshxx&" alt="mxxshxx" /></p>
